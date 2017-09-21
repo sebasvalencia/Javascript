@@ -15,4 +15,5 @@ class Rectangulo{
 
 let rectangulo = new Rectangulo(2,3);
 console.log(`El area del rectangulo es = ${rectangulo.getArea()}`);
+//Resultado : El area del rectangulo es 6
 ```
