@@ -1,6 +1,6 @@
 # Ejercicios en JS
 
-## Clases 
+## Clases ES6
 ```javascript
 class Rectangulo{
     constructor(alto, largo){
