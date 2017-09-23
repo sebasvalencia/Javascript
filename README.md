@@ -18,7 +18,7 @@
 ## Destructuración
 
 * Revisar archivo 6_destructuracion1.js
-
+* Revisar archivo 7_destructuracionObjectosAnidados2.js
 
 
 
