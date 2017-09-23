@@ -15,6 +15,9 @@
 
 * Revisar archivo 5_this.js
 
+## Destructuración
+
+* Revisar archivo 6_destructuracion1.js
 
 
 
