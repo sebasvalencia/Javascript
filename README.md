@@ -21,6 +21,7 @@
 * Revisar archivo 7_destructuracionObjectosAnidados.js
 * Revisar archivo 8_destructuracionArreglos.js
 * Revisar archivo 9_destructuracionArreglosAnidados.js
+* Revisar archivo 10_valorPorDefectoDestructuracion.js
 
 
 
