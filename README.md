@@ -11,6 +11,10 @@
 * Revisar archivo 3_clasesConHerencia2.js
 * Revisar archivo 4_claseConPrototipos.js
 
+## This
+
+* Revisar archivo 5_this.js
+
 
 
 
