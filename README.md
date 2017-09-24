@@ -22,6 +22,7 @@
 * Revisar archivo 8_destructuracionArreglos.js
 * Revisar archivo 9_destructuracionArreglosAnidados.js
 * Revisar archivo 10_valorPorDefectoDestructuracion.js
+* Revisar archivo 11_destructuracionParametros.js
 
 
 
