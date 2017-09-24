@@ -25,7 +25,12 @@
 * Revisar archivo 11_destructuracionParametros.js
 
 # Funciones de alto orden
+
 * Revisar archivo 12_funcionesDeAltoOrden.js
+
+# Scope de variables
+
+* Revisar archivo 13_scopeDeVariables.js
 
 
 
